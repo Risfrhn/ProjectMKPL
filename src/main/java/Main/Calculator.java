@@ -39,6 +39,8 @@ public class Calculator {
 
     // Method with unused private field
     private int unusedField;
+    private int unField;
+    private int usedField;
 
     // Method with inconsistent naming convention
     public int getMin(int[] numbers) {
