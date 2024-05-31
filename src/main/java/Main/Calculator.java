@@ -14,7 +14,7 @@ public class Calculator {
     public int calculate(int num1, int num2, int num3, int num4, int num5) {
         // Method with too many responsibilities
         int result = num1 + num2 - num3 * num4 / num5;
-        return result;
+        return result; 
     }
 
     // Method with magic number
